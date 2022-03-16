@@ -23,3 +23,16 @@ Publications:
 A screenshot:
 
 ![](res/share.jpg)
+
+
+## Dev Deployment Instructions
+Goto the folder build 
+```
+cd build
+```
+
+Run 
+```
+npm start
+```
+
