@@ -31,7 +31,11 @@ Goto the folder build
 cd build
 ```
 
-Run 
+Run the following
+```
+npm install
+```
+
 ```
 npm start
 ```
